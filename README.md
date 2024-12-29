@@ -12,3 +12,4 @@
 # Advanced 
 ### 1. https://leetcode.com/problemset/database/
 ### 2. https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select
+### 3. https://www.stratascratch.com/

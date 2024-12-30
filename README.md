@@ -1,4 +1,5 @@
 # SQL-Projects-Overview
+Here are the few links to practice SQL for beginners to Advance level.
 ### To Prctise SQL here are the few links 
 #  Beginners SQL projects 
 ##  1.Learn SQL basics here mentioning websites
